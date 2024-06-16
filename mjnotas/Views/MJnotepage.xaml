@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:viewModels="clr-namespace:mjnotas.ViewModels"
              x:Class="mjnotas.Views.MJnotepage"
-             Title="Note">
+             Title="Notas Mateo Jaramillo">
     <ContentPage.BindingContext>
         <viewModels:MJnoteViewModel />
     </ContentPage.BindingContext>
